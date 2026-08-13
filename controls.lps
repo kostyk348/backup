@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="controls.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="17" Y="11"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="comtrolscreen.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="FrmControl"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="5"/>
+        <CursorPos X="36" Y="18"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="25">
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="324" Column="4" TopLine="286"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Column="6"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="4" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="controls.lpr"/>
+        <Caret Line="11" Column="17"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="56" Column="43" TopLine="25"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Column="19"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="127" Column="24" TopLine="108"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="284" Column="22" TopLine="262"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="298" Column="5" TopLine="260"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="252" Column="25" TopLine="233"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="271" Column="15" TopLine="240"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="337" Column="5"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="336" Column="5" TopLine="298"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="337" Column="5" TopLine="299"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="338" Column="5" TopLine="300"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="337" Column="5" TopLine="299"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="330" Column="94" TopLine="300"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="337" Column="94" TopLine="307"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="164" Column="3" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="163" Column="3" TopLine="161"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="164" Column="3" TopLine="162"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="173" Column="51" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="169" Column="60" TopLine="146"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="326" Column="33" TopLine="305"/>
+      </Position>
+      <Position>
+        <Filename Value="comtrolscreen.pas"/>
+        <Caret Line="334" Column="30" TopLine="300"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

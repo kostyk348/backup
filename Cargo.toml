@@ -1,0 +1,12 @@
+[package]
+name = "backup"
+version = "0.1.0"
+edition = "2021"
+description = "backup — снапшоты каталогов в один .eml (pack) с реестром тегов, верификацией hash-chain и ротацией."
+
+[dependencies]
+emlbox = { git = "https://github.com/kostyk348/mime-os", tag = "v0.1.0" }
+serde_json = "1"
+
+[profile.release]
+opt-level = 3

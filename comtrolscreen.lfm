@@ -1,0 +1,84 @@
+object FrmControl: TFrmControl
+  Left = 1435
+  Height = 500
+  Top = 278
+  Width = 400
+  AlphaBlend = True
+  AlphaBlendValue = 240
+  BorderStyle = bsNone
+  Caption = 'FrmControl'
+  ClientHeight = 500
+  ClientWidth = 400
+  Color = 3223858
+  LCLVersion = '4.4.0.0'
+  OnCreate = FormCreate
+  object MainScreen: TBGRAVirtualScreen
+    Left = 0
+    Height = 500
+    Top = 0
+    Width = 400
+    Align = alClient
+    Alignment = taLeftJustify
+    Caption = 'MainScreen'
+    ClientHeight = 500
+    ClientWidth = 400
+    Color = clWhite
+    ParentColor = False
+    TabOrder = 0
+    object BriScreen: TBGRAVirtualScreen
+      Left = 3
+      Height = 139
+      Top = 185
+      Width = 197
+      Alignment = taLeftJustify
+      Caption = 'BriScreen'
+      Color = clWhite
+      ParentColor = False
+      TabOrder = 0
+    end
+    object LogList: TBCListBox
+      Left = 27
+      Height = 144
+      Top = 328
+      Width = 345
+      BorderStyle = bsNone
+      ItemHeight = 48
+      Style = lbOwnerDrawFixed
+      TabOrder = 1
+      TopIndex = -1
+    end
+    object VolScreen: TBGRAVirtualScreen
+      Left = 0
+      Height = 82
+      Top = 64
+      Width = 184
+      Alignment = taLeftJustify
+      Caption = 'VolScreen'
+      Color = clWhite
+      ParentColor = False
+      TabOrder = 2
+    end
+    object ScrWifi: TBGRAVirtualScreen
+      Left = 235
+      Height = 65
+      Top = 19
+      Width = 137
+      Alignment = taLeftJustify
+      Caption = 'ScrWifi'
+      Color = clWhite
+      ParentColor = False
+      TabOrder = 3
+    end
+    object ScrBlue: TBGRAVirtualScreen
+      Left = 213
+      Height = 74
+      Top = 147
+      Width = 147
+      Alignment = taLeftJustify
+      Caption = 'ScrBlue'
+      Color = clWhite
+      ParentColor = False
+      TabOrder = 4
+    end
+  end
+end

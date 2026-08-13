@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="mywm.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="MyWM"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="45"/>
+        <CursorPos X="89" Y="59"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="/usr/lib/fpc/src/packages/x11/src/xlib.pp"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="1534"/>
+        <CursorPos X="10" Y="1551"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="9">
+      <Position>
+        <Filename Value="mywm.lpr"/>
+        <Caret Line="115" Column="5" TopLine="71"/>
+      </Position>
+      <Position>
+        <Filename Value="mywm.lpr"/>
+        <Caret Line="24" Column="49" TopLine="2"/>
+      </Position>
+      <Position>
+        <Filename Value="/usr/lib/fpc/src/packages/x11/src/xlib.pp"/>
+        <Caret Line="1551" Column="10" TopLine="1534"/>
+      </Position>
+      <Position>
+        <Filename Value="mywm.lpr"/>
+        <Caret Line="58" Column="75" TopLine="33"/>
+      </Position>
+      <Position>
+        <Filename Value="mywm.lpr"/>
+        <Caret Line="110" Column="5" TopLine="76"/>
+      </Position>
+      <Position>
+        <Filename Value="mywm.lpr"/>
+        <Caret Line="68" Column="26" TopLine="51"/>
+      </Position>
+      <Position>
+        <Filename Value="mywm.lpr"/>
+        <Caret Line="103" Column="9" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="mywm.lpr"/>
+        <Caret Line="75" Column="64" TopLine="48"/>
+      </Position>
+      <Position>
+        <Filename Value="mywm.lpr"/>
+        <Caret Line="102" Column="5" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="mywm.lpr"/>
+        <Caret Line="62" Column="26" TopLine="45"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
