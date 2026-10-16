@@ -1,5 +1,8 @@
 # backup — снапшоты каталогов в .eml
 
+[![Release](https://img.shields.io/github/v/release/kostyk348/backup?sort=semver&color=blue)](https://github.com/kostyk348/backup/releases)
+[![Last commit](https://img.shields.io/github/last-commit/kostyk348/backup?branch=master)](https://github.com/kostyk348/backup/commits/master)
+
 Каталог → один `.eml`-контейнер (pack) с hash-chain; реестр снапшотов — tagdb
 с тегами и временем; верификация целостности; ротация старых.
 
